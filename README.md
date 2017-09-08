@@ -1,5 +1,5 @@
 # knowledge
-Various knowledge articles and notes for things I'm learning.
+Various knowledge articles, books, code, and notes for reference.
 
 ## JavaScript
 - Eloquent JavaScript (book)
