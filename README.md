@@ -19,3 +19,5 @@ Various knowledge articles, books, code, and notes for reference.
 - Algorithms (JavaScript)
   - [Algorithms, Data Structures and Web Development *Or why learning computer sciencey stuff matters…*](https://medium.com/@felipernb/algorithms-data-structures-and-web-development-7772e088f1d3)
   - https://github.com/felipernb/algorithms.js
+- Sorting Algorithms Animations
+  - https://www.toptal.com/developers/sorting-algorithms/
